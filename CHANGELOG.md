@@ -6,6 +6,8 @@
 
 ### Feature
 
+- Add a new type of filter facet for the Search block. Heavily refactor some searchblock internals. @tiberiuichim
+
 ### Bugfix
 
 ### Internal
