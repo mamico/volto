@@ -7,10 +7,12 @@
 ### Feature
 
 - Add blocks rendering in Event and NewsItem views (rel plone.volto#32) @nzambello
+- Style checkboxes @nileshgulia1
 
 ### Bugfix
 
 - Udate demo address @ksuess
+- Update list of trainings documentation @ksuess
 
 ### Internal
 
