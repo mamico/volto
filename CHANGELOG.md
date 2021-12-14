@@ -44,6 +44,7 @@
 - Add new listing block option "fullobjects" per variation @ksuess
 - Style checkboxes @nileshgulia1
 - Allow loading .less files also from a Volto project's `src` folder.  @tiberiuichim
+- Add a dynamic user form based in @userschema endpoint @erral
 
 ### Bugfix
 
